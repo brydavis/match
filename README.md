@@ -2,7 +2,7 @@
 
 Package for matching / linking health records based on common best practices and established algorithms.
 
-API Sketch
+### Sketch (Doesn't Work)
 
 ```go
 package main 
